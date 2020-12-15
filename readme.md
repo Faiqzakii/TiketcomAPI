@@ -1,10 +1,6 @@
-# TokopediaAPI
+# TiketcomAPI
 
 A Python wrapper for the Tiket.com private API for hotel search.
-
-## Support
-
-Make sure to review the [contributing documentation](CONTRIBUTING.md) before submitting an issue report or pull request.
 
 ## Legal
 
